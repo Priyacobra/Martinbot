@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies Just Ente
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/LDecaprioo>☢ ADITYA 🔥 ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/AjCinemassOfcl>AJ CINEMAS👾</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/CnuMoviesBot">MRCNU</a></b>😎</b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CnuNetwork>CnuNetwork</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -169,10 +169,10 @@ Nᴀᴍᴇ - {}"""
 
 ꜱᴛᴇᴘ 2 : ꜱᴄᴀɴ ᴛʜᴇ Qʀ ᴄᴏᴅᴇ ᴏʀ ᴜꜱɪɴɢ ᴜᴘɪ ɪᴅ ᴘᴀʏ ᴊᴜꜱᴛ ᴍᴏɴᴇʏ ᴅᴇᴘᴇɴᴅꜱ ᴏɴ ʏᴏᴜʀ ᴘʟᴀɴ.
 
-ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ  Our @aj_payments_bot
+ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ  Our @CnuMoviesBot
 
 ᴀɴʏ ᴅᴏᴜʙᴛꜱ ᴏʀ ʜᴏᴡ ᴛᴏ ʙᴇ ᴀ ᴘʀɪᴍᴇ ᴍᴇᴍʙᴇʀ ? 
- ᴄᴏɴᴛᴀᴄᴛ ➠ @aj_payments_bot
+ ᴄᴏɴᴛᴀᴄᴛ ➠ @CnuMoviesBot
 
 ‣ ‣ᴜᴘɪ ɪᴅ : <code>bhaskardakamolla1361@ybl</code>
 
