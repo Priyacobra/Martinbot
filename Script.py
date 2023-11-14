@@ -157,7 +157,7 @@ Nᴀᴍᴇ - {}"""
 
 2 ᴍᴏɴᴛʜꜱ - ₹50
 
-•ᴜᴘɪ ɪᴅ : bhaskardakamolla1361
+•ᴜᴘɪ ɪᴅ : updatesoon
 
 •ꜰᴏʀ Qʀ ᴄᴏᴅᴇ : Please Use UPI ID For Any Payment APP
 
@@ -174,7 +174,7 @@ Nᴀᴍᴇ - {}"""
 ᴀɴʏ ᴅᴏᴜʙᴛꜱ ᴏʀ ʜᴏᴡ ᴛᴏ ʙᴇ ᴀ ᴘʀɪᴍᴇ ᴍᴇᴍʙᴇʀ ? 
  ᴄᴏɴᴛᴀᴄᴛ ➠ @CnuMoviesBot
 
-‣ ‣ᴜᴘɪ ɪᴅ : <code>bhaskardakamolla1361@ybl</code>
+‣ ‣ᴜᴘɪ ɪᴅ : <code>updatesoon@ybl</code>
 
 ‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href=https://telegram.me/LDecaprioo>ADITYA</a>
 
