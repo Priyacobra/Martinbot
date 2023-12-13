@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/yogi444/MartinBot",
-    "repository": "https://github.com/yogi444/MartinBot",
+    "website": "https://github.com/KingCobra91/Martinbot",
+    "repository": "https://github.com/KingCobra91/Martinbot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
