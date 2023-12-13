@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies Just Ente
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/CnuMoviesBot">MRCNU</a></b>😎</b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CnuNetwork>CnuNetwork</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/DON_VIJAY">Don King Of TG</a></b>😎</b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Donvijays>Movies Wrold</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -15,9 +15,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://t.me/CnuMoviesBot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
+Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://t.me/Janu_9703'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
 
-Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/CnuMoviesBot'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
+Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/Ciripillaa'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -169,14 +169,14 @@ Nᴀᴍᴇ - {}"""
 
 ꜱᴛᴇᴘ 2 : ꜱᴄᴀɴ ᴛʜᴇ Qʀ ᴄᴏᴅᴇ ᴏʀ ᴜꜱɪɴɢ ᴜᴘɪ ɪᴅ ᴘᴀʏ ᴊᴜꜱᴛ ᴍᴏɴᴇʏ ᴅᴇᴘᴇɴᴅꜱ ᴏɴ ʏᴏᴜʀ ᴘʟᴀɴ.
 
-ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ  Our @CnuMoviesBot
+ꜱᴛᴇᴘ 3 : ꜱᴇɴᴛ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ  Our @Don_Vijay_Bot
 
 ᴀɴʏ ᴅᴏᴜʙᴛꜱ ᴏʀ ʜᴏᴡ ᴛᴏ ʙᴇ ᴀ ᴘʀɪᴍᴇ ᴍᴇᴍʙᴇʀ ? 
- ᴄᴏɴᴛᴀᴄᴛ ➠ @CnuMoviesBot
+ ᴄᴏɴᴛᴀᴄᴛ ➠ @Don_Vijay_Bot
 
-‣ ‣ᴜᴘɪ ɪᴅ : <code>updatesoon@ybl</code>
+‣ ‣ᴜᴘɪ ɪᴅ : <code>parisa56@paytm</code>
 
-‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href=https://telegram.me/LDecaprioo>ADITYA</a>
+‣ᴄᴏɴᴛᴀᴄᴛ ᴅᴇᴠ : <a href=https://telegram.me/Don_Vijay>DON KING OF TG</a>
 
          » Qʀ ᴄᴏᴅᴇ ᴀʟꜱᴏ ᴀᴠᴀɪʟᴀʙᴇ ɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ «
 
