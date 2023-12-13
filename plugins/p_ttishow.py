@@ -9,7 +9,7 @@ from Script import script
 from pyrogram.errors import ChatAdminRequired
 import asyncio 
 
-"""-----------------------------------------https://t.me/GetTGLink/4179 --------------------------------------"""
+"""-----------------------------------------https://t.me/+OORKsmHz7OczMjI1 --------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
@@ -38,7 +38,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+aLemGW6ubUE1Y2Jl"),
+                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+OORKsmHz7OczMjI1"),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                  ],[
                     InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/CnuMoviesBot")
@@ -61,10 +61,10 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+aLemGW6ubUE1Y2Jl"),
+                                                                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+OORKsmHz7OczMjI1"),
                                                                            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                                                                         ],[
-                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/CnuMoviesBot")
+                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/DON_VIJAY")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
@@ -89,8 +89,8 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Support Group', url="https://t.me/+aLemGW6ubUE1Y2Jl"),
-            InlineKeyboardButton('Owner', url="https://t.me/CnuMoviesBot")
+            InlineKeyboardButton('Support Group', url="https://t.me/+OORKsmHz7OczMjI1"),
+            InlineKeyboardButton('Owner', url="https://t.me/DON_VIJAY")
         ],[
             InlineKeyboardButton('Use Me Here', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
