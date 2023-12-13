@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Can Provide Movies Just Ente
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/DON_VIJAY">Don King Of TG</a></b>😎</b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/DON_VIJAY>Don King Of TG</a></b>😎</b>
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/Donvijays>Movies Wrold</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
