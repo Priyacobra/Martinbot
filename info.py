@@ -25,7 +25,7 @@ PICS = (environ.get('PICS', 'https://telegra.ph/file/45f11a5cae84593682a4f.jpg h
 PICS = (environ.get('PICS', 'https://telegra.ph/file/07672e763bd4c9553ae3f.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/8601521ca827cd59ddcd7.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/ddf11fe4415f0fafd6076.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/97ebc9c022afc4d075b27.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5a7928dc5ff35a2155f63.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '2080060354 6190391036 6288450420 2141660684').split()]
@@ -65,7 +65,7 @@ MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+OORKsmHz7OczMjI1') 
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Donvijays')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_download1000/4')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_download1000/6')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001953914254'))
