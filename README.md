@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/7b9379c46e8f37a04cff2.jpg" alt="Martin-filter-Bot Logo">
+  <img src="https://telegra.ph/file/07672e763bd4c9553ae3f.jpg" alt="Martin-filter-Bot Logo">
 </p>
 <h1 align="center">
   DON-FILTER-BOT
